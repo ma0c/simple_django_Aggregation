@@ -1,0 +1,6 @@
+.idea
+borrar_venv
+
+db.sqlite3
+
+.DS_Store
